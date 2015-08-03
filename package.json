@@ -1,0 +1,29 @@
+{
+  "name": "observ-bind",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Two way data binding for observables",
+  "license": "MIT",
+  "repository": "bendrucker/observ-bind",
+  "author": {
+    "email": "bvdrucker@gmail.com",
+    "name": "Ben Drucker",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "binding",
+    "observ",
+    "observable"
+  ],
+  "devDependencies": {
+    "observ": "~0.2.0",
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
