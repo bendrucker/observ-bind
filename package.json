@@ -1,7 +1,7 @@
 {
   "name": "observ-bind",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Two way data binding for observables",
   "license": "MIT",
   "repository": "bendrucker/observ-bind",
