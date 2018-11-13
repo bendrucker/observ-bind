@@ -1,4 +1,4 @@
-# observ-bind [![Build Status](https://travis-ci.org/bendrucker/observ-bind.svg?branch=master)](https://travis-ci.org/bendrucker/observ-bind)
+# observ-bind [![Build Status](https://travis-ci.org/bendrucker/observ-bind.svg?branch=master)](https://travis-ci.org/bendrucker/observ-bind) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/observ-bind.svg)](https://greenkeeper.io/)
 
 > Two way data binding for observables
 
